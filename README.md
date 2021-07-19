@@ -29,6 +29,7 @@ To install the app on your device, you need to downlaod packages and node.js int
 ## Usage
 This can only be generated using prompts generated in the command line.
 
+use "node index.js" as the prompt to initialize the app from the command line.
 
 ## Credit
 This app was made with love and hardwork by Praise Opara
